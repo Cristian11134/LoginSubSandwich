@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305816054886",
+    "project_id": "loginsubsandwich",
+    "storage_bucket": "loginsubsandwich.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305816054886:android:cd6a0072be2d5aab4e11a7",
+        "android_client_info": {
+          "package_name": "com.example.loginsubsandiwch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305816054886-fhqeu20c682ca6b0huuafbnjbe77jdts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0OubVtZiXmslhO6vWHDCcTlK1hJI_r-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305816054886-fhqeu20c682ca6b0huuafbnjbe77jdts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
